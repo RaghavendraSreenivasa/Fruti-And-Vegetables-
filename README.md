@@ -6,7 +6,7 @@ Key Features:
 Database Schema:
 
 Tables:
-sales_data: Contains sales transactions with detailed information like quantity sold, sales date, and total price.
+sales_Table: Contains sales transactions with detailed information like quantity sold, sales date, and total price.
 customers: Includes customer details such as first and last name, and unique identifiers.
 products: A master list of products (fruits and vegetables) with pricing and supplier information.
 suppliers: Contains information about product suppliers.
